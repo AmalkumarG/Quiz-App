@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "challenger",
+    "slug": "challenger",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.akku1399.challenger"
+    }
+  },
+  "name": "challenger"
+}
